@@ -1,0 +1,1516 @@
+# Translation of Plugins - NanoSupport - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - NanoSupport - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-27 18:31:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - NanoSupport - Stable (latest release)\n"
+
+#: includes/ns-email-functions.php:376
+msgid "You may get occasional emails notifying any movement of the ticket"
+msgstr "Puede que recibas ocasionalmente correos electrónicos avisándote de cualquier movimiento de la petición"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:367
+msgid "The following support ticket on &ldquo;%s&rdquo; is assigned to you:"
+msgstr "Se te ha asignado la siguiente petición de soporte el &ldquo;%s&rdquo;:"
+
+#: includes/ns-email-functions.php:362
+msgid "Ticket Assigned"
+msgstr "Petición asignada"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:360
+msgid "A ticket is assigned to you — %s"
+msgstr "Se te ha asignado una petición - %s"
+
+#: includes/ns-cpt-nanosupport.php:42
+msgctxt "NanoSupport Ticket"
+msgid "Support Ticket"
+msgstr "Petición de soporte"
+
+#: includes/ns-cpt-nanosupport.php:41
+msgctxt "NanoSupport Ticket"
+msgid "NanoSupport"
+msgstr "NanoSupport"
+
+#: includes/ns-cpt-nanosupport.php:32
+msgctxt "NanoSupport Ticket"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: includes/ns-cpt-nanosupport.php:31
+msgctxt "NanoSupport Ticket"
+msgid "Ticket"
+msgstr "Petición"
+
+#: includes/ns-cpt-nanosupport.php:30
+msgctxt "NanoSupport Ticket"
+msgid "Tickets"
+msgstr "Peticiones"
+
+#: includes/ns-cpt-knowledgebase.php:32
+msgctxt "NanoSupport Knowledgebase"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: includes/ns-cpt-knowledgebase.php:30 includes/ns-cpt-knowledgebase.php:31
+#: includes/ns-cpt-knowledgebase.php:41
+msgctxt "NanoSupport Knowledgebase"
+msgid "Knowledgebase"
+msgstr "Preguntas frecuentes"
+
+#: includes/admin/ns-settings.php:129
+msgid "Is Priority Visible?"
+msgstr "¿Será visible la prioridad?"
+
+#: includes/admin/ns-settings-general-fields.php:153
+msgid "If you check here, it will let the user choice Ticket Priority while submitting ticket."
+msgstr "Si seleccionas esto se permitirá al usuario elegir la prioridad de la petición al enviar una petición."
+
+#: includes/admin/ns-settings-general-fields.php:152
+msgid "Yes, let user choice Ticket Priority on ticket submission form"
+msgstr "Sí, permitir al usuario elegir prioridad de la petición al enviar el formulario de envío de peticiones"
+
+#: includes/class-system-status.php:40
+msgid "No"
+msgstr "No"
+
+#: includes/class-system-status.php:40
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/class-system-status.php:32
+msgid "Off"
+msgstr "Desactivado"
+
+#: includes/class-system-status.php:32
+msgid "On"
+msgstr "Activado"
+
+#. translators: Plugin author
+#: includes/admin/ns-system-status.php:187
+msgid "by <em>%s</em>"
+msgstr "por <em>%s</em>"
+
+#. translators: Active plugin count
+#: includes/admin/ns-system-status.php:172
+msgid "Active Plugins (%d)"
+msgstr "Plugins activos (%d)"
+
+#. translators: 1. existing MySQL version 2. link to WordPress minimum
+#. requirements
+#: includes/admin/ns-system-status.php:151
+msgid "%1$s &mdash; We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr "%1$s &mdash; Se recomienda MySQL version of 5.6. Ver: %2$s"
+
+#: includes/admin/ns-system-status.php:146
+msgid "MySQL version"
+msgstr "Version MySQL"
+
+#: includes/admin/ns-system-status.php:137
+#: includes/admin/ns-system-status.php:151
+msgid "WordPress minimum requirements"
+msgstr "Requisitos mínimos de WordPress"
+
+#. translators: 1. existing PHP version 2. link to WordPress minimum
+#. requirements
+#: includes/admin/ns-system-status.php:137
+msgid "%1$s &mdash; We recommend a minimum PHP version of 5.6. See: %2$s"
+msgstr "%1$s &mdash; Se recomienda la versión mínima de PHP 5.6. Ver: %2$s"
+
+#: includes/admin/ns-system-status.php:132
+msgid "PHP version"
+msgstr "Version de PHP"
+
+#: includes/admin/ns-system-status.php:123
+msgid "Increasing memory allocated to PHP"
+msgstr "Aumentar la memoria asignada a PHP"
+
+#. translators: 1. existing PHP memory limit 2. link to increasing PHP memory
+#. limit in WordPress
+#: includes/admin/ns-system-status.php:123
+msgid "%1$s &mdash; We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "%1$s &mdash; Se recomiendan 64MB de memoria. Ver: %2$s"
+
+#: includes/admin/ns-system-status.php:118
+msgid "PHP Memory Limit"
+msgstr "Límite de memoria PHP"
+
+#: includes/admin/ns-system-status.php:113
+msgid "Server"
+msgstr "Servidor"
+
+#: includes/admin/ns-system-status.php:108
+msgid "Site Language"
+msgstr "Idioma del sitio"
+
+#: includes/admin/ns-system-status.php:103
+msgid "Multisite?"
+msgstr "¿Multisitio?"
+
+#: includes/admin/ns-system-status.php:98
+msgid "Debug mode"
+msgstr "Modo de depuración"
+
+#: includes/admin/ns-system-status.php:92
+msgid "Active Theme Parent"
+msgstr "Tema padre activo"
+
+#: includes/admin/ns-system-status.php:86
+msgid "Active Theme"
+msgstr "Tema activo"
+
+#: includes/admin/ns-system-status.php:81
+msgid "NanoSupport version"
+msgstr "Versión de NanoSupport"
+
+#: includes/admin/ns-system-status.php:76
+msgid "WordPress version"
+msgstr "Versión de WordPress"
+
+#: includes/admin/ns-system-status.php:70
+msgid "NanoSupport Environment"
+msgstr "Entorno de NanoSupport"
+
+#: includes/admin/ns-system-status.php:46
+msgid "NanoSupport System Status"
+msgstr "Estado de NanoSupport"
+
+#: includes/admin/ns-system-status.php:25
+#: includes/admin/ns-system-status.php:26
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#. Description of the plugin/theme
+msgid "Create a fully featured Support Center within your WordPress environment without any third party system dependency, completely FREE. The built-in Knowledgebase is to inform public with generalized queries."
+msgstr "Crea un centro de soporte con todas sus funcionalidades en tu entorno de WordPress sin dependencia alguna de sistemas de terceros, totalmente GRATIS. Las preguntas frecuentes incorporadas son para informar al público con consultas generalizadas."
+
+#: includes/shortcodes/ns-support-desk.php:226
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+#. translators: context: login 'or' register
+#: includes/shortcodes/ns-support-desk.php:224
+msgid "or"
+msgstr "o"
+
+#: includes/shortcodes/ns-support-desk.php:218
+msgid "Sorry, you cannot see your tickets without being logged in."
+msgstr "Lo sentimos, no puedes ver tus entradas sin iniciar sesión."
+
+#: includes/shortcodes/ns-support-desk.php:211
+msgid "Nice! You do not have any support ticket to display."
+msgstr "¡Genial! No tienes ninguna petición de soporte que mostrar."
+
+#: includes/shortcodes/ns-submit-ticket.php:232
+msgid "Select a Department"
+msgstr "Seleccionar un Departamento"
+
+#: includes/shortcodes/ns-submit-ticket.php:225
+msgid "Choose a department to which you want to notify about the ticket"
+msgstr "Elige un departamento al que desees avisar de tu petición"
+
+#. translators: allowed HTML tags to the plugin
+#: includes/shortcodes/ns-submit-ticket.php:154
+#: includes/shortcodes/ns-submit-ticket.php:165
+msgid "<strong>Allowed HTML Tags:</strong><br> %s"
+msgstr "<strong>Etiquetas HTML permitidas:</strong><br> %s"
+
+#: includes/shortcodes/ns-submit-ticket.php:50
+msgid "Check your tickets"
+msgstr "Revisa tus peticiones"
+
+#: includes/shortcodes/ns-submit-ticket.php:48
+msgid "<strong>Success!</strong> Your ticket is submitted successfully! It will be reviewed shortly and replied as early as possible."
+msgstr "<strong>¡Conseguido!</strong> ¡Tu petición se envió con éxito!. Será revisada y respondida a la mayor brevedad."
+
+#. translators: URL to add new knowledgebase doc
+#: includes/shortcodes/ns-knowledgebase.php:238
+msgid "Nothing to display on Knowledgebase. Please <a href=\"%s\">Add some documentation</a> first, and categorize them accordingly."
+msgstr "No hay nada que mostrar en las preguntas frecuentes. Por favor, <a href=\"%s\">añade algo de documentación</a>, y organízala por categorías."
+
+#: includes/shortcodes/ns-knowledgebase.php:216
+msgid "All entries"
+msgstr "Todas las entradas"
+
+#: includes/ns-set-environment.php:232
+msgid "Please assign the document to a Knowledgebase Category, because Knowledgebase documents are displayed under categories."
+msgstr "Por favor, asigna el documento a una categoría de las preguntas frecuentes, ya que las preguntas frecuentes se muestran debajo de las categorías. "
+
+#: includes/ns-functions.php:676
+msgid "Cancel ReOpening"
+msgstr "Cancelar reapertura"
+
+#: includes/ns-functions.php:674
+msgid "<strong>Just to inform:</strong> you are about to ReOpen the ticket."
+msgstr "<strong>A modo de información:</strong> estás a punto de reabrir la petición."
+
+#: includes/ns-functions.php:565
+msgid "Reopen Ticket"
+msgstr "Reabrir la petición"
+
+#: includes/ns-functions.php:563
+msgid "This ticket is already solved."
+msgstr "Esta petición ya está resuelta."
+
+#. translators: error message
+#: includes/ns-functions.php:536 includes/shortcodes/ns-submit-ticket.php:30
+msgid "<strong>Error:</strong> %s"
+msgstr "<strong>Error:</strong> %s"
+
+#: includes/ns-email-functions.php:200
+msgid "Account Login URL"
+msgstr "URL de acceso a la cuenta"
+
+#. translators: The next thing is the link to the site login URL
+#: includes/ns-email-functions.php:199
+msgid "Log in here:"
+msgstr "Accede aquí:"
+
+#: includes/ns-email-functions.php:192
+msgid "Email: <strong>%s</strong>"
+msgstr "Correo electrónico: <strong>%s</strong>"
+
+#: includes/ns-email-functions.php:189
+msgid "Password: <em>Your Password</em>"
+msgstr "Contraseña: <em>tu contraseña</em>"
+
+#: includes/ns-email-functions.php:187
+msgid "Password: <strong>%s</strong>"
+msgstr "Contraseña: <strong>%s</strong>"
+
+#: includes/ns-email-functions.php:184
+msgid "Username: <strong>%s</strong>"
+msgstr "Usuario: <strong>%s</strong>"
+
+#. translators: Link to the user profile 1. link URL 2. user profile icon
+#: includes/ns-dashboard.php:80
+msgid "This is the back end of the support ticketing system. If you want to edit your profile, you can do that from <a href=\"%1$s\">%2$s Your Profile</a>."
+msgstr "Esta es la administración del sistema de peticiones de soporte, si quieres modificar tu perfil puedes hacerlo desde <a href=\"%1$s\">%2$s tu perfil</a>."
+
+#: includes/ns-cpt-knowledgebase.php:353
+msgid "Back to the Knowledgebase"
+msgstr "Volver a las preguntas frecuentes"
+
+#: includes/admin/ns-settings.php:136
+msgid "Is Departments Visible?"
+msgstr "¿Serán visibles los departamentos?"
+
+#: includes/admin/ns-settings-general-fields.php:162
+msgid "If you check here, it will let the user choice Support Department while submitting ticket."
+msgstr "Si seleccionas esto se permitirá al usuario elegir el departamento de soporte al la petición."
+
+#: includes/admin/ns-settings-general-fields.php:161
+msgid "Yes, let user choice Support Department on ticket submission form"
+msgstr "Sí, dejar al usuario elegir el departamento en el formulario de envío de peticiones"
+
+#. translators: color code
+#: includes/admin/ns-settings-emails-fields.php:77
+msgid "Choose a color for the header background of the email template. Default: NS Blue (%s)"
+msgstr "Elige un color para el fondo del encabezado de la plantilla de correo electrónico . Por defecto azul NS (%s)"
+
+#: includes/admin/ns-settings-emails-fields.php:61
+msgid "Preview email template"
+msgstr "Vista previa de la plantilla de correo electrónico"
+
+#: includes/admin/ns-settings-emails-fields.php:59
+msgid "Control the Email template settings from here"
+msgstr "Controla los ajustes de la plantilla de correo electrónico aquí"
+
+#: includes/admin/__nanodesigns.php:40 includes/ns-dashboard.php:266
+msgid "Get Support"
+msgstr "Soporte"
+
+#: includes/admin/__nanodesigns.php:40 includes/ns-dashboard.php:266
+msgid "Rate us %s"
+msgstr "Valóranos %s"
+
+#: includes/admin/__nanodesigns.php:20
+msgid "<strong>NanoSupport</strong> is a complete package for a front-end Support Ticketing System in a complete WordPress&rsquo; way. It has a rich back end for ticket maintenance and management. It has built-in Knowledgebase to sort out information that you want to inform publicly."
+msgstr "<strong>NanoSupport</strong> es un paquete completo de sistema de peticiones de soporte, a la manera de WordPress. Incluye una completa zona de administración para el mantenimiento y gestión de peticiones. Incluye una sección de preguntas frecuentes para ordenar la información de la que quieras informar públicamente."
+
+#. translators: submit ticket with registration URL
+#: includes/shortcodes/ns-submit-ticket.php:474
+msgid "<a href=\"%1s\">Cancel Login</a>. But sorry, registration is closed now"
+msgstr "<a href=\"%1s\">Cancelar acceso</a>. Lo sentimos, el registro está cerrado actualmente"
+
+#. translators: if you have account, login
+#: includes/shortcodes/ns-submit-ticket.php:418
+msgid "Registration is closed now. If you already have an account"
+msgstr "El registro está cerrado actualmente. Si ya tienes una cuenta"
+
+#: includes/shortcodes/ns-submit-ticket.php:160
+msgid "Write down your issue in details..."
+msgstr "Describe con detalle tu problema…"
+
+#: includes/ns-functions.php:623
+msgid "Close Ticket"
+msgstr "Cerrar petición"
+
+#: includes/ns-functions.php:598 includes/ns-metaboxes.php:142
+msgid "Write down your response"
+msgstr "Escribe tu respuesta"
+
+#: includes/ns-functions.php:552
+msgid "<strong>Success:</strong> You just marked the ticket as &lsquo;Solved&rsquo;."
+msgstr "<strong>Conseguido:</strong> Acabas de marcar la petición como &lsquo;resuelta&rsquo;."
+
+#: includes/ns-functions.php:548
+msgid "<strong>Success:</strong> The ticket is marked as &lsquo;Solved&rsquo; with this response."
+msgstr "<strong>Conseguido: </strong> La petición está marcada como &lsquo;resuelta&rsquo; con esta respuesta."
+
+#: includes/ns-functions.php:544
+msgid "<strong>Success:</strong> Your response is successfully submitted to this ticket."
+msgstr "<strong>Conseguido:</strong> Tu respuesta se envió con éxito a esta petición."
+
+#: includes/ns-email-functions.php:120
+msgid "A support ticket is submitted and is <strong>Pending</strong>."
+msgstr "Se ha enviado una petición y está <strong>pendiente</strong>."
+
+#. translators: context: ...limit to # characters
+#: includes/admin/ns-settings.php:87
+msgid "Set ticket character limit to"
+msgstr "Establecer límite de caracteres de las peticiones a"
+
+#. translators: Knowledgebase page shortcode
+#: includes/admin/ns-settings-knowledgebase-fields.php:54
+msgid "Choose the page where you want to display the Knowledgebase. If no page is in the list, create one with the shortcode %s in it."
+msgstr "Elige la página donde quieras mostrar las preguntas frecuentes, si no hay ninguna página en la lista crea una e incluye en ella el shortcode %s."
+
+#. translators: zero in numerals
+#: includes/admin/ns-settings-general-fields.php:84
+msgid "Define the character limit on ticket submission form. %s (zero) denotes no character limit applied."
+msgstr "Define un límite de caracteres en el formulario de envío de peticiones. %s (cero) implica que no habrá límite de caracteres."
+
+#. translators: submit ticket page shortcode
+#: includes/admin/ns-settings-general-fields.php:70
+msgid "Choose the page where you want show the Ticket Submission page. If no page is in the list, create one with the shortcode %s in it."
+msgstr "Elige la página donde quieras mostrar el formulario de envio de peticiones. Si no existe ninguna en la lista crea una con el shortcode %s en la misma."
+
+#. translators: support desk shortcode
+#: includes/admin/ns-settings-general-fields.php:45
+msgid "Choose the page where you want to display the Support Desk. If no page is in the list, create one with the shortcode %s in it."
+msgstr "Elige la página donde quieras mostrar el panel de soporte. Si no hay ninguna página en la lista crea una e incluye en ella el shortcode %s."
+
+#. Author URI of the plugin/theme
+msgid "http://nanodesignsbd.com/"
+msgstr "http://nanodesignsbd.com/"
+
+#. Author of the plugin/theme
+msgid "nanodesigns"
+msgstr "nanodesigns"
+
+#. Plugin URI of the plugin/theme
+msgid "http://nanosupport.nanodesignsbd.com/"
+msgstr "http://nanosupport.nanodesignsbd.com/"
+
+#: templates/content-single-ticket.php:175
+msgid "Back to ticket index"
+msgstr "Volver al índice de peticiones"
+
+#: templates/content-single-ticket.php:100
+msgid "Edit the Ticket"
+msgstr "Edita la petición"
+
+#: templates/content-single-ticket.php:94
+#: templates/content-single-ticket.php:95
+msgid "Close the ticket"
+msgstr "Cierra la petición"
+
+#: nanosupport.php:264
+msgid "Find your desired question in the knowledgebase. If you can&rsquo;t find your question, submit a new support ticket."
+msgstr "Encuentra la respuesta deseada en las preguntas frecuentes. Si no puedes encontrar tu pregunta envía una nueva petición de soporte."
+
+#: nanosupport.php:263
+msgid "Tickets are visible to the admins, designated support assistant and/or to the ticket owner only."
+msgstr "Las peticiones son visibles solo para los administradores, el ayudante de soporte asignado y/o para el propietario de la petición."
+
+#: nanosupport.php:262
+msgid "Consult the Knowledgebase for your query. If they are not close to you, then submit a new ticket here."
+msgstr "Busca tu consulta en las preguntas frecuentes. Si no encuentras nada envía aquí una nueva petición."
+
+#: nanosupport.php:240
+msgid "Set the NanoSupport settings"
+msgstr "Establecer los ajustes de NanoSupport"
+
+#. translators: 1. minimum WordPress core version 2. WordPress update page URL
+#: includes/ns-install.php:556
+msgid "NanoSupport requires WordPress core version <strong>%1$s</strong> or greater. The plugin has been deactivated. Consider <a href=\"%2$s\">upgrading WordPress</a>."
+msgstr "NanoSupport requiere la versión de WordPress <strong>%1$s</strong> o superior. El plugin se ha desactivado. Plantéate <a href=\"%2$s\">actualizar WordPress</a>."
+
+#: includes/shortcodes/ns-support-desk.php:179
+msgid "Last Replied by:"
+msgstr "Ultima respuesta por: "
+
+#: includes/shortcodes/ns-support-desk.php:172
+msgid "Responses:"
+msgstr "Respuestas:"
+
+#: includes/shortcodes/ns-support-desk.php:165
+msgid "Created &amp; Updated:"
+msgstr "Creado y actualizado:"
+
+#: includes/shortcodes/ns-support-desk.php:161
+msgid "Department:"
+msgstr "Departamento:"
+
+#: includes/shortcodes/ns-support-desk.php:156
+msgid "Load more"
+msgstr "Cargar más"
+
+#: includes/shortcodes/ns-support-desk.php:151
+msgid "Ticket Status:"
+msgstr "Estado de la petición:"
+
+#: includes/shortcodes/ns-support-desk.php:147
+msgid "Priority:"
+msgstr "Prioridad:"
+
+#: includes/shortcodes/ns-support-desk.php:133
+msgid "View"
+msgstr "Ver"
+
+#: includes/shortcodes/ns-support-desk.php:132
+#: templates/content-single-ticket.php:97
+#: templates/content-single-ticket.php:98
+msgid "Permanent link to the Ticket"
+msgstr "Enlace permanente a la petición"
+
+#: includes/shortcodes/ns-submit-ticket.php:503
+msgid "Log out"
+msgstr "Salir"
+
+#. translators: logged in user display name
+#: includes/shortcodes/ns-submit-ticket.php:502
+msgid "<strong>Submitting as:</strong> %s"
+msgstr "<strong>Enviando como:</strong> %s"
+
+#. translators: submit ticket with registration URL
+#: includes/shortcodes/ns-submit-ticket.php:468
+msgid "Don&rsquo;t have an account? <a href=\"%1s\">Create one</a>"
+msgstr "¿No tienes una cuenta? <a href=\"%1s\">Crea una</a>"
+
+#: includes/shortcodes/ns-submit-ticket.php:459
+msgid "Remember me"
+msgstr "Recordarme"
+
+#: includes/shortcodes/ns-submit-ticket.php:450
+msgid "Write down the password of your account to login"
+msgstr "Escribe la contraseña de tu cuenta para acceder"
+
+#: includes/shortcodes/ns-submit-ticket.php:438
+msgid "Write down your username of your account"
+msgstr "Escribe el nombre de usuario de tu cuenta"
+
+#: includes/shortcodes/ns-submit-ticket.php:407
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#: includes/shortcodes/ns-submit-ticket.php:288
+msgid "Login first"
+msgstr "Accede primero"
+
+#: includes/shortcodes/ns-submit-ticket.php:285
+#: includes/shortcodes/ns-support-desk.php:221
+msgid "Login"
+msgstr "Acceder"
+
+#: includes/shortcodes/ns-submit-ticket.php:368
+msgid "Anti-spam HoneyPot"
+msgstr "Recipiente anti-spam"
+
+#: includes/shortcodes/ns-submit-ticket.php:357
+msgid "Set a password for your account. Password must be at least 5 characters. Strong password should contain numbers, alphabets, and alphanumeric characters with a mixture of uppercase and lowercase"
+msgstr "Establece una contraseña para tu cuenta. La contraseña debe tener al menos 5 caracteres. La contraseña debe ser fuerte y contener números, letras y caracteres alfanuméricos con una mezcla de mayúsculas y minúsculas"
+
+#: includes/shortcodes/ns-submit-ticket.php:354
+#: includes/shortcodes/ns-submit-ticket.php:360
+#: includes/shortcodes/ns-submit-ticket.php:447
+#: includes/shortcodes/ns-submit-ticket.php:453
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/shortcodes/ns-submit-ticket.php:341
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/shortcodes/ns-submit-ticket.php:338
+msgid "Your email for the user account and for further communication"
+msgstr "Tu correo electrónico para la cuenta de usuario y para una futura comunicación"
+
+#: includes/shortcodes/ns-submit-ticket.php:335
+msgid "Your email"
+msgstr "Tu correo electrónico"
+
+#: includes/shortcodes/ns-submit-ticket.php:324
+msgid "Username for the user account"
+msgstr "Nombre de usuario de la cuenta"
+
+#: includes/shortcodes/ns-submit-ticket.php:321
+#: includes/shortcodes/ns-submit-ticket.php:327
+#: includes/shortcodes/ns-submit-ticket.php:435
+#: includes/shortcodes/ns-submit-ticket.php:441
+msgid "Username"
+msgstr "Usuario"
+
+#: includes/shortcodes/ns-submit-ticket.php:308
+msgid "With these information below, we will create an account on your behalf to track the ticket for further enquiry."
+msgstr "Con esta información a continuación, crearemos una cuenta en tu nombre para realizar el seguimiento a la petición y para posteriores investigaciones."
+
+#: includes/shortcodes/ns-submit-ticket.php:203
+msgid "Select a priority"
+msgstr "Elige una prioridad"
+
+#: includes/shortcodes/ns-submit-ticket.php:198
+msgid "Choose the priority of the issue"
+msgstr "Elige la prioridad del problema"
+
+#. translators: character limit to the ticket content, in number
+#: includes/shortcodes/ns-submit-ticket.php:149
+msgid "Write down your issue in details... At least %s characters is a must."
+msgstr "Describe tu petición en detalle a continuación… Es obligatorio que al menos tenga %s caracteres."
+
+#: includes/shortcodes/ns-submit-ticket.php:114
+msgid "Details"
+msgstr "Detalles"
+
+#: includes/shortcodes/ns-submit-ticket.php:107
+msgid "Subject in brief"
+msgstr "Asunto breve"
+
+#: includes/shortcodes/ns-submit-ticket.php:104
+msgid "Write down a self-descriptive brief subject to the ticket"
+msgstr "Describe un breve asunto muy descriptivo para la petición"
+
+#: includes/shortcodes/ns-submit-ticket.php:101
+msgid "Subject"
+msgstr "Asunto"
+
+#: includes/shortcodes/ns-knowledgebase.php:240
+msgid "Nothing to display on Knowledgebase."
+msgstr "Nada que mostrar en las preguntas frecuentes."
+
+#: includes/shortcodes/ns-knowledgebase.php:222
+msgid "No Knowledgebase entries till now to display in this category."
+msgstr "No hay preguntas frecuentes de momento que mostrar en esta categoría."
+
+#: includes/shortcodes/ns-knowledgebase.php:134
+msgid "Documentation"
+msgstr "Documentación"
+
+#: includes/shortcodes/ns-knowledgebase.php:32
+#: includes/shortcodes/ns-submit-ticket.php:41
+msgid "You are redirected from the Support Desk, because you are not logged in, and have no permission to view any ticket."
+msgstr "Se te ha redirigido desde el panel de soporte, debido a que no has accedido, y no tienes permisos suficientes para ver peticiones."
+
+#: includes/ns-utility-functions.php:397 includes/ns-utility-functions.php:399
+msgid "Pending"
+msgstr "Pendiente"
+
+#: includes/ns-set-environment.php:650
+msgid "Open tickets assigned to me"
+msgstr "Peticiones abiertos asignadas a mi"
+
+#: includes/ns-set-environment.php:604
+msgid "Visit Support Desk"
+msgstr "Visitar el panel de soporte"
+
+#: includes/ns-set-environment.php:480
+msgid "Ticket has no content"
+msgstr "La petición no tiene contenido"
+
+#: includes/ns-set-environment.php:357 includes/ns-set-environment.php:379
+msgid "NanoSupport Agent"
+msgstr "Agente NanoSupport "
+
+#: includes/ns-set-environment.php:277
+msgid "Yes, make this user a Support Agent"
+msgstr "Sí, hacer que este usuario sea agente de soporte"
+
+#: includes/ns-set-environment.php:273
+msgid "Make Support Agent"
+msgstr "Hacer agente de soporte"
+
+#: includes/ns-set-environment.php:178
+msgid "Are you sure you want to delete the response?"
+msgstr "¿Estás seguro de querer borrar la respuesta?"
+
+#: includes/ns-metaboxes.php:270
+msgid "No agent found"
+msgstr "No se ningún agente"
+
+#: includes/ns-metaboxes.php:265
+msgid "Assign an agent"
+msgstr "Asignar agente"
+
+#: includes/ns-metaboxes.php:250
+msgid "Choose agent to assign the ticket. You can make an agent by editing the user from their user profile."
+msgstr "Elige el agente al que asignar esta petición. Puedes crear un agente editando el usuario desde su perfil."
+
+#: includes/ns-metaboxes.php:235 includes/ns-utility-functions.php:460
+#: includes/ns-utility-functions.php:462
+#: includes/shortcodes/ns-submit-ticket.php:207
+msgid "Critical"
+msgstr "Crítica"
+
+#: includes/ns-metaboxes.php:234 includes/ns-utility-functions.php:453
+#: includes/ns-utility-functions.php:455
+#: includes/shortcodes/ns-submit-ticket.php:206
+msgid "High"
+msgstr "Alta"
+
+#: includes/ns-metaboxes.php:233 includes/ns-utility-functions.php:446
+#: includes/ns-utility-functions.php:448
+#: includes/shortcodes/ns-submit-ticket.php:205
+msgid "Medium"
+msgstr "Media"
+
+#: includes/ns-metaboxes.php:232 includes/ns-utility-functions.php:439
+#: includes/ns-utility-functions.php:441
+#: includes/shortcodes/ns-submit-ticket.php:204
+msgid "Low"
+msgstr "Baja"
+
+#: includes/ns-metaboxes.php:226
+msgid "Change the priority as per the content and urgency of the ticket."
+msgstr "Cambiar la prioridad según el contenido y la urgencia de la petición."
+
+#: includes/ns-metaboxes.php:217 includes/ns-utility-functions.php:408
+#: includes/ns-utility-functions.php:410
+msgid "Solved"
+msgstr "Resuelto"
+
+#: includes/ns-metaboxes.php:215 includes/ns-utility-functions.php:422
+#: includes/ns-utility-functions.php:424
+msgid "Open"
+msgstr "Abierto"
+
+#: includes/ns-metaboxes.php:209
+msgid "Change the ticket status to track unsolved tickets separately."
+msgstr "Cambia el estado de la petición para hacer seguimiento por separado de las peticiones sin resolver."
+
+#: includes/ns-metaboxes.php:166
+msgid "Internal notes are not visible to Support Seekers. It&rsquo;s to pass important notes within the support team."
+msgstr "Las notas internas no son visibles para los buscadores de soporte. Son solo para pasar notas importantes dentro del equipo de soporte."
+
+#: includes/ns-metaboxes.php:165
+msgid "Write down any internal note to pass to any Support Agent internally."
+msgstr "Escriba una nota interna para pasársela internamente a algún agente de soporte."
+
+#: includes/ns-metaboxes.php:144
+msgid "Save Response"
+msgstr "Guardar respuesta"
+
+#: includes/ns-metaboxes.php:121
+msgid "Ticket is already solved. <strong>ReOpen</strong> it to add new response."
+msgstr "La petición ya está resuelta. <strong>Vuelve a abrirla</strong> para añadir una nueva respuesta."
+
+#: includes/ns-metaboxes.php:114
+msgid "You cannot add response to a pending ticket. <strong>Publish</strong> it first."
+msgstr "No puedes añadir respuestas a una petición pendiente. <strong>Publícala</strong> primero."
+
+#: includes/ns-metaboxes.php:91
+msgid "Delete this Response"
+msgstr "Borrar esta respuesta"
+
+#. translators: counting number of the response
+#: includes/ns-metaboxes.php:90
+msgid "Response #%s"
+msgstr "Respuesta #%s"
+
+#: includes/ns-metaboxes.php:31
+msgid "Internal Notes"
+msgstr "Notas internas"
+
+#: includes/ns-install.php:493
+msgid "Couldn&rsquo;t register you"
+msgstr "No te pudimos registrar"
+
+#: includes/ns-install.php:464
+msgid "Anti-spam field was filled in. Spam account cannot pass in"
+msgstr "El campo anti-spam está completo. Las cuentas spam no pasarán"
+
+#: includes/ns-install.php:455
+msgid "Password length must be greater than 5 characters"
+msgstr "La longitud de la contraseña debe ser mayor de 5 caracteres"
+
+#: includes/ns-install.php:448
+msgid "Please enter a password for your account"
+msgstr "Por favor, introduce una contraseña para tu cuenta"
+
+#: includes/ns-install.php:418
+msgid "An account is already registered with that username. Please choose another"
+msgstr "Ya existe una cuenta registrada con ese nombre de usuario. Por favor, elige otro"
+
+#: includes/ns-install.php:414
+msgid "Please enter a valid username for creating an account"
+msgstr "Por favor, introduce un nombre de usuario válido para crear una cuenta"
+
+#: includes/ns-install.php:401
+msgid "An account is already registered with your email address. Please login"
+msgstr "Ya existe una cuenta registrada con tu dirección de correo electrónico. Por favor, accede"
+
+#: includes/ns-install.php:397
+msgid "Please provide a valid email address"
+msgstr "Por favor, introduce una dirección de correo electrónico válida"
+
+#: includes/ns-install.php:156
+msgid "Support Seeker"
+msgstr "Buscador de soporte"
+
+#: includes/ns-functions.php:708
+msgid "Response field can&rsquo;t be blank."
+msgstr "El campo de respuesta no puede estar vacío."
+
+#: includes/ns-functions.php:668
+msgid "<strong>Just to inform:</strong> This ticket is still <em>pending</em>. With this response it&rsquo;ll be opened."
+msgstr "<strong>A modo de información:</strong> Esta petición aún está <em>pendiente</em>. Se abrirá con esta respuesta."
+
+#: includes/ns-functions.php:639
+msgid "<strong>Sorry!</strong> Tickets are open for responses only to the Ticket Author."
+msgstr "<strong>¡Lo siento!</strong> Las peticiones están abiertas para su respuesta solo por el autor de la petición."
+
+#: includes/ns-functions.php:637
+msgid "<strong>Resolved!</strong> New Responses to this ticket is already closed. Only ticket author can reopen a closed ticket."
+msgstr "<strong>¡Resuelta!</strong> Las respuestas nuevas a esta petición ya están cerradas. Solo el autor de la petición puede reabrir una petición cerrada."
+
+#: includes/ns-functions.php:618 includes/shortcodes/ns-submit-ticket.php:493
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/ns-functions.php:598 includes/ns-metaboxes.php:142
+msgid "Write down the response to the ticket"
+msgstr "Escribe la respuesta a la petición"
+
+#. translators: User display name
+#: includes/ns-functions.php:587 includes/ns-metaboxes.php:131
+msgid "Responding as: %s"
+msgstr "Respondiendo como: %s"
+
+#: includes/ns-functions.php:390 includes/ns-functions.php:434
+msgid "My Tickets"
+msgstr "Mis peticiones"
+
+#: includes/ns-functions.php:390 includes/ns-functions.php:434
+msgid "All the Tickets"
+msgstr "Todas las peticiones"
+
+#: includes/ns-functions.php:346
+msgid "Email Template Preview"
+msgstr "Vista previa de la plantilla de correo electrónico"
+
+#: includes/ns-functions.php:255
+msgid "Sorry, your user identity is not acceptable! Your ticket is not submitted."
+msgstr "Lo siento, ¡su identidad de usuario no está aceptada!. Tu petición no se ha enviado."
+
+#: includes/ns-functions.php:153
+msgid "There is no user found with this email address"
+msgstr "No existe ningún usuario con esta dirección de correo electrónico"
+
+#: includes/ns-functions.php:132
+msgid "Password must be filled"
+msgstr "Debes introducir una contraseña"
+
+#: includes/ns-functions.php:128
+msgid "Username cannot be empty"
+msgstr "El nombre de usuario no puede estar vacío"
+
+#: includes/ns-functions.php:84
+msgid "Ticket priority must be set"
+msgstr "Debes definir una prioridad para la petición"
+
+#: includes/ns-functions.php:74
+msgid "Write down a little detail. At least %s characters or longer"
+msgstr "Escribe una pequeña descripción. Al menos %s caracteres o más"
+
+#: includes/ns-functions.php:72
+msgid "Ticket details can&rsquo;t be empty"
+msgstr "Los detalles de la petición no pueden estar vacíos"
+
+#: includes/ns-functions.php:64
+msgid "Ticket subject can&rsquo;t be empty"
+msgstr "El asunto de la petición no debe estar vacío"
+
+#. translators: 1. ticket title 2. site title 3. user display name
+#: includes/ns-email-functions.php:293
+msgid "An assigned support ticket &rsquo;<strong>%1$s</strong>&rsquo; on %2$s is replied by <em>%3$s</em>:"
+msgstr "Una petición de soporte asignada &rsquo;<strong>%1$s</strong>&rsquo; el %2$s las respondió <em>%3$s</em>:"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:285
+msgid "An assigned ticket is replied — %s"
+msgstr "Una petición asignada la respondió  — %s"
+
+#. translators: 1. ticket title 2. site title 3. user display name followed by
+#. ticket response excerpt
+#: includes/ns-email-functions.php:252
+msgid "Your support ticket &rsquo;<strong>%1$s</strong>&rsquo; on %2$s is replied by <em>%3$s</em>:"
+msgstr "Tu petición de soporte &rsquo;<strong>%1$s</strong>&rsquo; del %2$s la contestó <em>%3$s</em>:"
+
+#: includes/ns-email-functions.php:246 includes/ns-email-functions.php:287
+msgid "Support Ticket Replied"
+msgstr "Petición de soporte respondida"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:244
+msgid "Your ticket is replied — %s"
+msgstr "Tu petición está contestada — %s"
+
+#: includes/ns-email-functions.php:195
+msgid "You can edit your account details and reset your password from your Profile"
+msgstr "Puedes editar los detalles de su cuenta y restablecer tu contraseña desde tu perfil"
+
+#: includes/ns-email-functions.php:181
+msgid "Account credentials are as following:"
+msgstr "Las credenciales de tu cuenta son las siguientes:"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:180
+msgid "To manage your support tickets an account has been created on %s."
+msgstr "Para gestionar tus peticiones debes crear  una cuenta en %s."
+
+#: includes/ns-email-functions.php:175
+msgid "Welcome to your Account"
+msgstr "Bienvenido a tu cuenta"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:173
+msgid "Account Created — %s"
+msgstr "Cuenta creada  — %s"
+
+#: includes/ns-email-functions.php:129
+msgid "Link to the Ticket"
+msgstr "Enlace a la petición"
+
+#: includes/ns-email-functions.php:116
+msgid "New Ticket Submitted"
+msgstr "Nueva petición enviada"
+
+#. translators: Site title
+#: includes/ns-email-functions.php:114
+msgid "New Ticket Submitted — %s"
+msgstr "Nueva petición enviada — %s"
+
+#. translators: Count in numbers
+#: includes/ns-dashboard.php:254
+msgid "My Total Ticket: %d"
+msgid_plural "My Total Tickets: %d"
+msgstr[0] "Todas mis peticiones: %d"
+msgstr[1] "Todas mis peticiones: %d"
+
+#: includes/ns-dashboard.php:247
+msgid "You&rsquo;ve not assigned any ticket yet!"
+msgstr "¡No se te ha asignado aún ninguna petición!"
+
+#: includes/ns-dashboard.php:239
+msgid "My Activity Status"
+msgstr "Estado de mi actividad"
+
+#. translators: 1. link URL 2. ticket title 3. ticket author
+#: includes/ns-dashboard.php:212
+msgid "New Ticket <a href=\"%1$s\">%2$s</a> submitted by %3$s"
+msgstr "Nueva petición <a href=\"%1$s\">%2$s</a> enviada por %3$s"
+
+#. translators: 1. link URL 2. ticket title 3. ticket author
+#: includes/ns-dashboard.php:204
+msgid "Ticket <a href=\"%1$s\">%2$s</a> is responded by %3$s"
+msgstr "La petición <a href=\"%1$s\">%2$s</a> la ha contestado %3$s"
+
+#: includes/ns-dashboard.php:190
+msgid "No activity yet!"
+msgstr "¡Sin actividad aún!"
+
+#: includes/ns-dashboard.php:151
+msgid "Recent Activity"
+msgstr "Actividad reciente"
+
+#. translators: Count in numbers
+#: includes/ns-dashboard.php:137
+msgid "Total Ticket: %d"
+msgid_plural "Total Tickets: %d"
+msgstr[0] "Total de peticiones: %d"
+msgstr[1] "Total de peticiones: %d"
+
+#: includes/ns-dashboard.php:130
+msgid "Yet nothing to display!"
+msgstr "¡Aún no hay nada que mostrar!"
+
+#: includes/ns-dashboard.php:123
+msgid "Current Status"
+msgstr "Estado actual"
+
+#: includes/ns-dashboard.php:99 includes/ns-functions.php:393
+#: includes/ns-functions.php:501
+msgid "Submit Ticket"
+msgstr "Enviar petición"
+
+#: includes/ns-dashboard.php:94
+msgid "My Tools"
+msgstr "Mis herramientas"
+
+#: includes/ns-dashboard.php:90
+msgid "Use the links here for visiting your support desk, or submitting new ticket."
+msgstr "Usa estos enlaces para visitar tu panel de soporte o para enviar una nueva petición."
+
+#: includes/ns-dashboard.php:88
+msgid "Use the links here for exploring knowledgebase, visiting your support desk, or submitting new ticket. Before submitting new ticket, we prefer you to consider exploring the Knowledgebase for existing resources."
+msgstr "Utiliza estos enlaces para revisar las preguntas frecuentes, visitar nuestro panel de soporte o enviar una nueva petición. Antes de enviar una nueva petición preferimos que consideres echar  un vistazo a los recursos existentes en las preguntas frecuentes."
+
+#: includes/ns-dashboard.php:77
+msgid "Welcome to Support Ticketing"
+msgstr "Bienvenido al sistema de peticiones de soporte"
+
+#: includes/ns-dashboard.php:28 includes/ns-metaboxes.php:216
+#: includes/ns-utility-functions.php:415 includes/ns-utility-functions.php:417
+msgid "Under Inspection"
+msgstr "Bajo inspección"
+
+#: includes/ns-dashboard.php:27
+msgid "Open Tickets"
+msgstr "Peticiones abiertas"
+
+#: includes/ns-dashboard.php:26
+msgid "Solved Tickets"
+msgstr "Peticiones resueltas"
+
+#: includes/ns-cpt-nanosupport.php:95 includes/ns-dashboard.php:25
+msgid "Pending Tickets"
+msgstr "Peticiones pendientes"
+
+#: includes/ns-cpt-nanosupport.php:207
+msgid "New Department Name"
+msgstr "Nombre del nuevo departamento"
+
+#: includes/ns-cpt-nanosupport.php:206
+msgid "Add New Department"
+msgstr "Añadir nuevo departamento"
+
+#: includes/ns-cpt-nanosupport.php:205
+msgid "Update Departments"
+msgstr "Actualizar departamentos"
+
+#: includes/ns-cpt-nanosupport.php:204
+msgid "Edit Departments"
+msgstr "Editar departamentos"
+
+#: includes/ns-cpt-nanosupport.php:203
+msgid "Parent Department:"
+msgstr "Departamento superior:"
+
+#: includes/ns-cpt-nanosupport.php:202
+msgid "Parent Department"
+msgstr "Departamento superior"
+
+#: includes/ns-cpt-nanosupport.php:201
+msgid "All Departments"
+msgstr "Todos los departamentos"
+
+#: includes/ns-cpt-nanosupport.php:200
+msgid "Search Departments"
+msgstr "Buscar departamentos"
+
+#: includes/ns-cpt-nanosupport.php:199
+#: includes/shortcodes/ns-submit-ticket.php:222
+#: templates/content-single-ticket.php:63
+msgid "Department"
+msgstr "Departamento"
+
+#: includes/ns-cpt-nanosupport.php:198 includes/ns-cpt-nanosupport.php:208
+msgid "Departments"
+msgstr "Departamentos"
+
+#. translators: time difference from current time. eg. 12 minutes ago
+#: includes/ns-cpt-nanosupport.php:174
+#: includes/shortcodes/ns-support-desk.php:187
+msgid "%s ago"
+msgstr "hace %s"
+
+#: includes/ns-cpt-nanosupport.php:164 includes/ns-cpt-nanosupport.php:176
+msgid "No response yet"
+msgstr "Ninguna respuesta aún"
+
+#. translators: Response count 1. singular 2. plural
+#: includes/ns-cpt-nanosupport.php:162
+msgid "%s response"
+msgid_plural "%s responses"
+msgstr[0] "%s respuesta"
+msgstr[1] "%s respuestas"
+
+#: includes/ns-cpt-nanosupport.php:118
+msgid "Last Response by"
+msgstr "Última respuesta de"
+
+#: includes/ns-cpt-nanosupport.php:117 includes/ns-metaboxes.php:20
+#: templates/content-single-ticket.php:131
+msgid "Responses"
+msgstr "Respuestas"
+
+#: includes/ns-cpt-nanosupport.php:116 includes/ns-metaboxes.php:249
+#: includes/ns-set-environment.php:379
+msgid "Agent"
+msgstr "Agente"
+
+#: includes/ns-cpt-nanosupport.php:115 includes/ns-metaboxes.php:225
+#: includes/shortcodes/ns-submit-ticket.php:195
+#: templates/content-single-ticket.php:87
+msgid "Priority"
+msgstr "Prioridad"
+
+#: includes/ns-cpt-nanosupport.php:48
+msgid "Get the ticket information"
+msgstr "Obtener la información de la petición"
+
+#: includes/ns-cpt-nanosupport.php:40
+msgid "Parent Ticket:"
+msgstr "Petición superior:"
+
+#: includes/ns-cpt-nanosupport.php:39
+msgid "No Ticket found in Trash"
+msgstr "No se encontró ninguna petición en la papelera"
+
+#: includes/ns-cpt-nanosupport.php:38
+msgid "No Ticket found"
+msgstr "No se encontró ninguna petición"
+
+#: includes/ns-cpt-nanosupport.php:37
+msgid "Search Ticket"
+msgstr "Buscar petición"
+
+#: includes/ns-cpt-nanosupport.php:36 includes/ns-email-functions.php:260
+#: includes/ns-email-functions.php:301
+msgid "View Ticket"
+msgstr "Ver petición"
+
+#: includes/ns-cpt-nanosupport.php:35
+msgid "New Ticket"
+msgstr "Nueva petición"
+
+#: includes/ns-cpt-nanosupport.php:34
+msgid "Edit Ticket"
+msgstr "Editar petición"
+
+#: includes/ns-cpt-nanosupport.php:33
+msgid "Add New Ticket"
+msgstr "Agregar nueva petición"
+
+#: includes/ns-cpt-knowledgebase.php:314
+msgid "Knowledgebase Question"
+msgstr "Pregunta de las preguntas frecuentes"
+
+#: includes/ns-cpt-knowledgebase.php:270
+msgid "Icon"
+msgstr "Icono"
+
+#: includes/ns-cpt-knowledgebase.php:228
+msgid "Change Category Icon"
+msgstr "Cambiar icono de la categoría"
+
+#: includes/ns-cpt-knowledgebase.php:168 includes/ns-cpt-knowledgebase.php:236
+msgid "Choose an Icon to display with the Category"
+msgstr "Elige un icono a mostrar con la categoría"
+
+#: includes/ns-cpt-knowledgebase.php:164 includes/ns-cpt-knowledgebase.php:233
+msgid "Choose Icon"
+msgstr "Elegir icono"
+
+#: includes/ns-cpt-knowledgebase.php:163 includes/ns-cpt-knowledgebase.php:232
+msgid "Choose an icon"
+msgstr "Elige un icono"
+
+#: includes/ns-cpt-knowledgebase.php:161
+msgid "Choose Category Icon"
+msgstr "Elige el icono de la categoría"
+
+#: includes/ns-cpt-knowledgebase.php:118
+msgid "New Category Name"
+msgstr "Nombre de la nueva categoría"
+
+#: includes/ns-cpt-knowledgebase.php:117
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: includes/ns-cpt-knowledgebase.php:116
+msgid "Update Categories"
+msgstr "Actualizar categorías"
+
+#: includes/ns-cpt-knowledgebase.php:115
+msgid "Edit Categories"
+msgstr "Editar Ccategorías"
+
+#: includes/ns-cpt-knowledgebase.php:114
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: includes/ns-cpt-knowledgebase.php:113
+msgid "Parent Category"
+msgstr "Categoría superior"
+
+#: includes/ns-cpt-knowledgebase.php:112
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: includes/ns-cpt-knowledgebase.php:111
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: includes/ns-cpt-knowledgebase.php:110
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/ns-cpt-knowledgebase.php:109 includes/ns-cpt-knowledgebase.php:119
+msgid "Categories"
+msgstr "Categorías"
+
+#: includes/ns-cpt-knowledgebase.php:47
+msgid "Make a complete FAQ section supporting your Support Forum"
+msgstr "Crea una completa sección de preguntas frecuentes para tu foro de soporte"
+
+#: includes/ns-cpt-knowledgebase.php:40
+msgid "Parent Doc:"
+msgstr "Documento superior:"
+
+#: includes/ns-cpt-knowledgebase.php:39
+msgid "No Knowledgebase Doc found in Trash"
+msgstr "No hay documentos de las preguntas frecuentes en la papelera"
+
+#: includes/ns-cpt-knowledgebase.php:38
+msgid "No Knowledgebase Doc found"
+msgstr "No hay documentos en las preguntas frecuentes"
+
+#: includes/ns-cpt-knowledgebase.php:37
+msgid "Search Knowledgebase"
+msgstr "Buscar en las preguntas frecuentes"
+
+#: includes/ns-cpt-knowledgebase.php:36
+msgid "View Doc"
+msgstr "Ver documento"
+
+#: includes/ns-cpt-knowledgebase.php:35
+msgid "New Doc"
+msgstr "Nuevo documento"
+
+#: includes/ns-cpt-knowledgebase.php:34
+msgid "Edit Doc"
+msgstr "Editar documento"
+
+#: includes/ns-cpt-knowledgebase.php:33
+msgid "Add New Doc"
+msgstr "Añadir nuevo documento"
+
+#: includes/admin/ns-settings.php:387
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: includes/admin/ns-settings.php:385
+msgid "General"
+msgstr "General"
+
+#: includes/admin/ns-settings.php:380
+msgid "NanoSupport Settings"
+msgstr "Ajustes de NanoSupport"
+
+#: includes/admin/ns-settings.php:350
+msgid "Footer Text"
+msgstr "Texto de pie de página"
+
+#: includes/admin/ns-settings.php:343
+msgid "Header Text"
+msgstr "Texto de cabecera"
+
+#: includes/admin/ns-settings.php:336
+msgid "Header Image"
+msgstr "Imagen de cabecera"
+
+#: includes/admin/ns-settings.php:329
+msgid "Header Text Color"
+msgstr "Color de texto de cabecera"
+
+#: includes/admin/ns-settings.php:322
+msgid "Header Background Color"
+msgstr "Color de fondo de cabecera"
+
+#: includes/admin/ns-settings.php:316
+msgid "Email Template"
+msgstr "Plantilla de correo electrónico"
+
+#: includes/admin/ns-settings.php:301
+msgid "Email Choices"
+msgstr "Opciones de correo electrónico"
+
+#: includes/admin/ns-settings.php:294
+msgid "Notification Email"
+msgstr "Aviso de correo electrónico"
+
+#: includes/admin/ns-settings.php:283
+msgid "Email Settings"
+msgstr "Ajustes de correo electrónico"
+
+#: includes/admin/ns-settings.php:256
+msgid "No. of items per category"
+msgstr "Número de elementos por categoría"
+
+#: includes/admin/ns-settings.php:244
+msgid "Featured Categories"
+msgstr "Categorías destacadas"
+
+#: includes/admin/ns-settings.php:232
+msgid "Knowledgebase Page"
+msgstr "Página de preguntas frecuentes"
+
+#: includes/admin/ns-settings.php:219
+msgid "Activate Knowledgebase?"
+msgstr "¿Activar las preguntas frecuentes?"
+
+#: includes/admin/ns-settings.php:203
+msgid "Knowledgebase Settings"
+msgstr "Ajustes de preguntas frecuentes"
+
+#: includes/admin/ns-settings.php:184
+msgid "Delete Data?"
+msgstr "¿Borrar datos?"
+
+#: includes/admin/ns-settings.php:178
+msgid "Other Settings"
+msgstr "Otros ajustes"
+
+#: includes/admin/ns-settings.php:165
+msgid "Account Creation"
+msgstr "Crear cuenta"
+
+#: includes/admin/ns-settings.php:159
+msgid "Account Settings"
+msgstr "Ajustes de la cuenta"
+
+#: includes/admin/ns-settings.php:143
+msgid "Enable Embedded Login?"
+msgstr "¿Incluir el formulario de acceso?"
+
+#: includes/admin/ns-settings.php:122
+msgid "Highlight Ticket with"
+msgstr "Destacar petición con"
+
+#: includes/admin/ns-settings.php:115
+msgid "Knowledgebase Notice"
+msgstr "Aviso de preguntas frecuentes"
+
+#: includes/admin/ns-settings.php:108
+msgid "Support Desk Notice"
+msgstr "Aviso del panel de soporte"
+
+#: includes/admin/ns-settings.php:101
+msgid "Submit Ticket Notice"
+msgstr "Enviar aviso de petición"
+
+#: includes/admin/ns-settings.php:94
+msgid "Enable Notice?"
+msgstr "¿Activar aviso?"
+
+#: includes/admin/ns-settings.php:79
+msgid "Ticket Submission Page"
+msgstr "Página de envío de peticiones"
+
+#: includes/admin/ns-settings.php:72
+msgid "Support Desk Page"
+msgstr "Página del panel de soporte"
+
+#: includes/admin/ns-settings.php:61
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: includes/admin/ns-settings.php:29 includes/admin/ns-settings.php:30
+#: nanosupport.php:240
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/ns-settings-knowledgebase-fields.php:85
+msgid "Choose the number of entries to display per Knowledgebase category. Default is Settings &raquo; Reading &raquo; Blog pages show at most."
+msgstr "Elige el número de entradas a mostrar por categoría de preguntas frecuentes. El valor por defecto es las páginas del blog establecidas en Ajustes & raquo; Lectura & raquo;."
+
+#: includes/admin/ns-settings-knowledgebase-fields.php:73
+msgid "Choose the Knowledgebase categories you want to promote to the knowledgebase head section."
+msgstr "Elige las categorías de las preguntas frecuentes que quieras promocionar en la sección de cabecera de las preguntas frecuentes."
+
+#: includes/admin/ns-settings-knowledgebase-fields.php:64
+#: includes/admin/ns-settings-knowledgebase-fields.php:66
+msgid "Select Categories"
+msgstr "Elegir categorías"
+
+#: includes/admin/ns-settings-knowledgebase-fields.php:27
+msgid "Check or uncheck the Knowledgebase feature of NanoSupport"
+msgstr "Activa o desactiva la funcionalidad de preguntas frecuentes de NanoSupport"
+
+#: includes/admin/ns-settings-knowledgebase-fields.php:26
+msgid "Yes, enable Knowledgebase"
+msgstr "Sí, habilitar las preguntas frecuentes"
+
+#: includes/admin/ns-settings-knowledgebase-fields.php:18
+msgid "Knowledgebase is to store all the Frequently Asked Questions (FAQs) for public access to learn/research deeply about your products/services."
+msgstr "Las preguntas frecuentes contienen las consultas más habituales y son para que el público acceda y aprenda/investigue en profundidad nuestros productos/servicios."
+
+#: includes/admin/ns-settings-general-fields.php:212
+msgid "Miscellaneous settings can be managed from here."
+msgstr "Aquí se pueden gestionar ajustes adicionales."
+
+#: includes/admin/ns-settings-general-fields.php:204
+msgid "If you check here, on uninstallation of the plugin, it will wipe out all the data from the database"
+msgstr "Si seleccionas esto, al desinstalar el plugin se borrarán todos los datos de la base de datos"
+
+#: includes/admin/ns-settings-general-fields.php:203
+msgid "Delete all the Data on Uninstallation?"
+msgstr "¿Borrar todos los datos al desinstalar?"
+
+#: includes/admin/ns-settings-general-fields.php:194
+msgid "If you check here, a password will be automatically created for the user"
+msgstr "Si seleccionas esto se creará automáticamente una contraseña para el usuario"
+
+#: includes/admin/ns-settings-general-fields.php:193
+msgid "Yes, automatically generate password for the user"
+msgstr "Sí, generar automáticamente la contraseña para el usuario"
+
+#: includes/admin/ns-settings-general-fields.php:188
+msgid "If you check here, an automatted username will be created for the user from their email"
+msgstr "Si seleccionas esto se creará automáticamente un nombre de usuario a partir de su correo electrónico"
+
+#: includes/admin/ns-settings-general-fields.php:187
+msgid "Yes, automatically generate username from user email"
+msgstr "Sí, generar automáticamente un nombre de usuario a partir del correo electrónico del usuario"
+
+#: includes/admin/ns-settings-general-fields.php:179
+msgid "All the user account related settings can be managed from here."
+msgstr "Todos los ajustes relacionados con la cuenta de usuario se pueden gestionar aquí."
+
+#: includes/admin/ns-settings-general-fields.php:171
+msgid "If you check here, it will enable login form below ticket submission form. Please note that, it&rsquo;s a beta feature till now"
+msgstr "Si seleccionas esto se activará el formulario de acceso debajo del formulario de envío de peticiones. Por favor, ten en cuenta de que actualmente es una funcionalidad beta"
+
+#: includes/admin/ns-settings-general-fields.php:170
+msgid "BETA FEATURE"
+msgstr "FUNCIONALIDAD BETA"
+
+#: includes/admin/ns-settings-general-fields.php:170
+msgid "Yes, enable Login below ticket submission form"
+msgstr "Sí, habilitar el acceso debajo del formulario de envío de peticiones"
+
+#: includes/admin/ns-settings-general-fields.php:143
+msgid "Choose on which you want to highlight your ticket. Default: status"
+msgstr "Elige cómo quieres destacar tu petición. Por defecto: estado"
+
+#: includes/admin/ns-settings-general-fields.php:141
+msgid "Ticket Priority"
+msgstr "Prioridad de la petición"
+
+#: includes/admin/ns-settings-general-fields.php:140
+#: includes/ns-cpt-nanosupport.php:114 includes/ns-metaboxes.php:208
+msgid "Ticket Status"
+msgstr "Estado de la petición"
+
+#: includes/admin/ns-settings-general-fields.php:131
+msgid "The message that to show on top of the Knowledgebase page. Plain texts only."
+msgstr "El mensaje que se mostrará en la parte superior de la página de preguntas frecuentes. Solo texto plano."
+
+#: includes/admin/ns-settings-general-fields.php:115
+msgid "The message that to show on top of the Support Ticket page. Plain texts only."
+msgstr "El mensaje que se mostrará en la parte superior de la página de peticiones de soporte. Solo en texto plano."
+
+#: includes/admin/ns-settings-general-fields.php:104
+msgid "The message that to show on top of the New Ticket submission page. Plain texts only."
+msgstr "El mensaje que se mostrará en la parte superior de la página de envío de nuevas peticiones. Solo texto plano."
+
+#: includes/admin/ns-settings-general-fields.php:93
+msgid "If you check here, it will enable the predefined notice on top of Support Desk, Knowledgebase, and Submit Ticket page"
+msgstr "Si seleccionas esto se activará el aviso predefinido en la parte superior del panel de soporte, en las preguntas frecuentes y en la página de envío de peticiones"
+
+#: includes/admin/ns-settings-general-fields.php:92
+msgid "Yes, enable Notice and Navigation on top of NanoSupport Pages"
+msgstr "Sí, activar los avisos y la navegación en la parte superior de las páginas de NanoSupport"
+
+#: includes/admin/ns-settings-general-fields.php:36
+#: includes/admin/ns-settings-general-fields.php:62
+#: includes/admin/ns-settings-knowledgebase-fields.php:45
+msgid "Select a page"
+msgstr "Elige una página"
+
+#: includes/admin/ns-settings-general-fields.php:20
+msgid "All the general settings including the Support Desk and Support Ticket submission page setup, and other plugin-specific setups."
+msgstr "Todos los ajustes generales, incluida la configuración del panel de soporte y del envío de peticiones de soporte, además de otras configuraciones específicas del plugin."
+
+#: includes/admin/ns-settings-emails-fields.php:125
+msgid "Write down the Footer Text for the email template."
+msgstr "Escribe el texto para el pie de página de la plantilla de correo electrónico."
+
+#. translators: 1. site title 2. developer company name
+#: includes/admin/ns-settings-emails-fields.php:121
+#: templates/content-email.php:119
+msgid "%1$s &mdash; Powered by %2$s"
+msgstr "%1$s &mdash; Creado por %2$s"
+
+#: includes/admin/ns-settings-emails-fields.php:111
+msgid "Write down the Header Text for the email template. Default: Site name."
+msgstr "Escribe el texto para el encabezado de la plantilla de correo electrónico. Por defecto: Nombre del sitio"
+
+#: includes/admin/ns-settings-emails-fields.php:100
+msgid "Upload an image through Media &raquo; Add New, and copy &amp; paste the image URL here. Or, you can place an abosolute URL of any image. Default: No image."
+msgstr "Sube una imagen desde Medios &raquo; Añadir nuevo, y copia y pega aquí la URL de la imagen. O puedes poner la URL absoluta a cualquier imagen. Por defecto: Sin imagen."
+
+#. translators: color code
+#: includes/admin/ns-settings-emails-fields.php:89
+msgid "Choose a color for the header text of the email template. Default: White (%s)"
+msgstr "Elige un color para el texto del encabezado. Por defecto: Blanco (%s)"
+
+#: includes/admin/ns-settings-emails-fields.php:52
+msgid "If you check here, an email will be sent to the agent who is assigned to the ticket when their ticket is replied. Default: <code>true</code>."
+msgstr "Si seleccionas esto se enviará un correo electrónico al agente asignado a la petición cuando se responda a su petición. Por defecto: <code>true</code>."
+
+#: includes/admin/ns-settings-emails-fields.php:51
+msgid "Yes, notify the assigned agent when their ticket is replied"
+msgstr "Sí, avisar al agente asignado cuando haya una respuesta a su petición"
+
+#: includes/admin/ns-settings-emails-fields.php:46
+msgid "If you check here, an email will be sent to the ticket author when their ticket is replied. Default: <code>true</code>."
+msgstr "Si seleccionas esto se enviará un correo electrónico al autor de la petición cuando se responda a la petición. Por defecto: <code>true</code>."
+
+#: includes/admin/ns-settings-emails-fields.php:45
+msgid "Yes, notify the ticket author when their ticket is replied"
+msgstr "Sí, avisar al autor de la petición cuando su petición tenga una respuesta"
+
+#: includes/admin/ns-settings-emails-fields.php:40
+msgid "If you check here, an email will be sent to Notification email notifying about every new ticket submission. Default: <code>true</code>."
+msgstr "Si seleccionas esto se enviará un correo electrónico avisando de cada nuevo envío de petición. Por defecto: <code>true</code>."
+
+#: includes/admin/ns-settings-emails-fields.php:39
+msgid "Yes, send an email to admin on new ticket submission"
+msgstr "Sí, enviar un correo electrónico al administrador con cada nueva petición"
+
+#: includes/admin/ns-settings-emails-fields.php:31
+msgid "Write down the email to get notification of new ticket submission. Default is, admin email."
+msgstr "Escribe el correo electrónico en el que recibir avisos al enviar una nueva petición. Por defecto es el correo electrónico del administrador."
+
+#: includes/admin/ns-settings-emails-fields.php:19
+msgid "All the settings specific to Email for the Support ticketing."
+msgstr "Todos los ajustes específicos de correo electrónico de sistema de peticiones de soporte."
+
+#: includes/admin/__nanodesigns.php:33 includes/admin/ns-settings.php:386
+#: includes/ns-dashboard.php:109 includes/ns-functions.php:443
+#: includes/ns-functions.php:497
+msgid "Knowledgebase"
+msgstr "Preguntas frecuentes"
+
+#: includes/admin/__nanodesigns.php:23 includes/ns-dashboard.php:96
+msgid "Support Desk"
+msgstr "Panel de soporte"
+
+#: includes/admin/__nanodesigns.php:19
+msgid "complete support ticketing"
+msgstr "completo sistema de peticiones de soporte"
+
+#. #-#-#-#-#  nanosupport-code.pot (NanoSupport 0.4.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/__nanodesigns.php:19 includes/ns-dashboard.php:52
+msgid "NanoSupport"
+msgstr "NanoSupport"

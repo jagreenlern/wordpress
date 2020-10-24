@@ -1,0 +1,3 @@
+crear la bd wordpress usuario wordpress 666666 todos los permisos en esa bd.
+creamos el instalador crea usuario admin 666666 dentro de wordpress
+no usa mvc hay que instalar un plugin para ello
